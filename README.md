@@ -134,9 +134,3 @@ build/
 > ale živý organismus – síť výpočtů, která roste a mění se s každým tahem.  
 
 ---
-
-## Autor  
-
-**Ondřej Škubala a Jan Souhrada**  
-učitelé matematiky a informatiky  
-📍 *2025 – Mathmosaic Project*
